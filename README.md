@@ -1,1 +1,1 @@
-# CodeAlpha-Task2-Hotel-Booking-EDA
+Hotel-Booking-Data-Analysis
